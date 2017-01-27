@@ -1,11 +1,7 @@
-# Nome: Jamile Lima
+# Nome: Jamile Lima :rocket:
 
 * Skills:
 	
 	* Code;
 	* Eat;
 	* Sleep;
-
-:octocat:
-
-:sparkles:
